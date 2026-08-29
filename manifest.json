@@ -1,0 +1,12 @@
+{
+    "display_name": "⊹ STYLE JAM ⊹",
+    "loading_order": 32,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "aceenvw",
+    "version": "1.0.0",
+    "license": "AGPL-3.0-or-later",
+    "minimum_client_version": "1.18.0",
+    "homePage": "https://github.com/aceeenvw/style-jam",
+    "auto_update": true
+}
